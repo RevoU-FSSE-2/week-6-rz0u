@@ -1,0 +1,14 @@
+{
+    "name": "node docker",
+    "version": "1.0.0",
+    "description": "Dockerize Node.JS for week 6 assignment",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "author": "rz0u",
+    "license": "ISC",
+    "dependencies": {
+      "http": "^0.0.1-security"
+    }
+  }
